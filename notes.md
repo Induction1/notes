@@ -6,3 +6,11 @@
 - `ls -l`: lists information of files as long
 - `ls -lhtr`: lists information of files as long in order of time and in reverse so a human can read it
 - `man ls`: help page for ls
+- `mkdir`: makes a new directory
+- `touch`: makes a new file
+- `less`: scrollable file view
+- `ls ~/Downloads/ | less`: downloads folder less view
+- Git Items
+- `git init`: make new repository
+- `git log`: list of past commit logs
+- `git commid --amend`: change a git commit
