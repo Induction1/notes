@@ -1,0 +1,43 @@
+# 02/12/2022
+## Linux
+- Basic file system
+  - File operations 
+    - Create a directory
+    - Add an empty file called `foo.txt`
+    - Set the content of the file to `Hello world`
+    - Attach 2 new lines to  `foo.txt`
+    - Print the content of the `foo.txt` to console output
+    - Create a copy of the file in the same dir and name if `foo_again.txt`.
+    - Delete the the `foo.txt` file
+    - Create a new directory `bar`
+    - Delete the directory `bar`
+  - Explore file system
+    - What is the name of the the system root diretory? How to get there?
+    - What's the command to show current path?
+    - `ls` command
+      - List files in the user `Downloads` directory
+      - List files including all hidden files
+      - How to go to the parent directory of the current directory?
+      - What is the path of the user home diretory?
+      - How to go to the user's home directory?
+    - `less` command
+      - What do you use `less` command for?
+      - How to search for a string with in `less` view?
+      - How to find the next match or the previous match?
+      - How to scroll to the bottom of the file?
+      - How to scroll to the top of the file?
+  - Extra credits
+    - How to find out the number of lines of in a file? What about the number of characters?
+    - What's the command to show the history of the command the user recently used?
+    - How to show the top 10 lines of a file? How to show to the last 10 lines of a file?
+    - Create a file, the content of which is the output of the `ls` command to the `Download` directory?
+    - How to list only the `pdf` file in `Downloads` directory?
+## Git
+  - Regular opearations
+    - Create a new file and commit.
+    - Create a branch and create a file in the branch and commit.
+    - Switch back to the master branch.
+  - Extra creadits
+    - If you made some change to a file in a checked-out git repo, and would like to discard the change, how do you do that?
+    - If you made some change to a file before `git add`, how do you see what's been changed?
+    - How to delete a branch?
