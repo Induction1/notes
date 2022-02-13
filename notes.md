@@ -13,4 +13,4 @@
 - Git Items
 - `git init`: make new repository
 - `git log`: list of past commit logs
-- `git commid --amend`: change a git commit
+- `git commit --amend`: change a git commit
