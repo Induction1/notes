@@ -10,7 +10,8 @@
 - `touch`: makes a new file
 - `less`: scrollable file view
 - `ls ~/Downloads/ | less`: downloads folder less view
-- `cat`: allows one to modify a file
+- `cat`: prints out file contents
+- `echo "xxxx" > myfile`: adds text to file
 - Git Items
 - `git init`: make new repository
 - `git log`: list of past commit logs
